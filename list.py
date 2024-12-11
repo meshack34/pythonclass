@@ -26,3 +26,4 @@ set1 = set()
 set2 = set([1,"gee", 3,5,10, "new"])
 
 print (set2)
+print(set1)
