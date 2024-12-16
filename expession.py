@@ -7,12 +7,11 @@ greetings =  "hello " + name
 print(greetings)
 
 x=11
-is_equal = x==19
+is_equal = x<=19
 print(is_equal)
 
 width =20
 height = 10
 
-area= width * height
-
-print(area)
+area = width * height
+print (area)
